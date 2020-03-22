@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressButtonWithFrameLayout">
+        <attr name="buttonText" format="reference|string" />
+        <attr name="progressBarDrawable" format="reference" />
+        <attr name="progressBarHeight" format="dimension" />
+        <attr name="progressBarWidth" format="dimension" />
+    </declare-styleable>
+</resources>
